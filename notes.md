@@ -1,6 +1,8 @@
 uebung notizen
 
-step 1 and 2 5 minutes
+start 17:14
+step 1 and 2 complete 17:20
+step 3 and 4 complete 17:26
 
 
 
