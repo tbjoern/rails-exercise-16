@@ -19,6 +19,6 @@ RSpec.describe "authors/index", type: :view do
   it "renders a list of authors" do
     render
     assert_select "tr>td", :text => "First Name Last Name".to_s, :count => 2
-    #assert_select "tr>td", :text => "Homepage".to_s, :count => 2
+    assert_select "tr>td", :text => "Homepage".to_s, :count => 2
   end
 end
